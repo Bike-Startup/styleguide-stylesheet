@@ -1,4 +1,4 @@
-# Bike Startup & Co. JavaScript スタイルガイド
+# Bike Startup & Co. StyleSheet スタイルガイド
 
 株式会社 自転車創業 スタイルシート( CSSとSASS )のスタイルガイドです。
 modified Airbnb Style Guide
@@ -291,9 +291,10 @@ gzipをかければ`@extend`を使うことによって得られる合理的な�
 
 もしIDセレクタを最初におきたい場合（本来やるべきではないが）、決してネストさせてはいけまない。もしあなた自身がこのようなことをしていると気づいた場合は、もう一度マークアップを見直すかなぜそのような強い詳細度にしなければならなかったのかを確認する必要がある。もしHTMLとCSSを正しいフォーマットで書いていればこのようなことをする必要は**絶対に**ない。
 
-## 翻訳
 
-  このスタイルガイドでは以下の言語でも読むことができます:
-  - ![us](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-States.png) **English**: [airbnb/css](https://github.com/airbnb/css)
-  - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: [Zhangjd/css-style-guide](https://github.com/Zhangjd/css-style-guide)
-  - ![ru](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Russia.png) **Russian**: [Nekorsis/css-style-guide](https://github.com/Nekorsis/css-style-guide)
+## 変更履歴(Changelog)
+
+  - 2018/05/30 共鳴者(In the Wild)を削除
+  - 2018/05/30 翻訳(Translation)を削除
+  - 2018/05/30 他のスタイルガイドたちを移動
+
